@@ -1,0 +1,8 @@
+C:\Users\ЗлобиновРС\source\repos\Control_Zlobinov33P\Control_Zlobinov33P\bin\Debug\Control_Zlobinov33P.exe.config
+C:\Users\ЗлобиновРС\source\repos\Control_Zlobinov33P\Control_Zlobinov33P\bin\Debug\Control_Zlobinov33P.exe
+C:\Users\ЗлобиновРС\source\repos\Control_Zlobinov33P\Control_Zlobinov33P\bin\Debug\Control_Zlobinov33P.pdb
+C:\Users\ЗлобиновРС\source\repos\Control_Zlobinov33P\Control_Zlobinov33P\obj\Debug\Control_Zlobinov33P.csproj.AssemblyReference.cache
+C:\Users\ЗлобиновРС\source\repos\Control_Zlobinov33P\Control_Zlobinov33P\obj\Debug\Control_Zlobinov33P.csproj.SuggestedBindingRedirects.cache
+C:\Users\ЗлобиновРС\source\repos\Control_Zlobinov33P\Control_Zlobinov33P\obj\Debug\Control_Zlobinov33P.csproj.CoreCompileInputs.cache
+C:\Users\ЗлобиновРС\source\repos\Control_Zlobinov33P\Control_Zlobinov33P\obj\Debug\Control_Zlobinov33P.exe
+C:\Users\ЗлобиновРС\source\repos\Control_Zlobinov33P\Control_Zlobinov33P\obj\Debug\Control_Zlobinov33P.pdb
